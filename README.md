@@ -27,6 +27,11 @@ A .NET REST API for digitising and streamlining medical insurance claim processi
 ```bash
 git clone https://github.com/sadreammm/InsureZen.git
 cd InsureZen/InsureZenAPI
+```
+
+Create a `.env` file in `InsureZenAPI/` folder with the same contents as `InsureZenAPI/.env.example`. Then
+
+```bash
 docker-compose up --build
 ```
 
