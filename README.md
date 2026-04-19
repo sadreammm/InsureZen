@@ -26,7 +26,7 @@ A .NET REST API for digitising and streamlining medical insurance claim processi
 
 ```bash
 git clone https://github.com/sadreammm/InsureZen.git
-cd InsureZenAPI
+cd InsureZen/InsureZenAPI
 docker-compose up --build
 ```
 
