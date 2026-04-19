@@ -9,8 +9,8 @@ A .NET REST API for digitising and streamlining medical insurance claim processi
 - [Prerequisites](#prerequisites)
 - [Running the Application](#running-the-application)
 - [Running Tests](#running-tests)
-- [Task 1 – Requirements Analysis](#task-1-requirements-analysis)
-- [Task 2 – API Design](#task-2--api-design)
+- [Task 1 – Requirements Analysis](#task-1---requirements-analysis)
+- [Task 2 – API Design](#task-2---api-design)
 - [Assumptions](#assumptions)
 
 ---
