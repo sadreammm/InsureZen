@@ -1,0 +1,25 @@
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+**/appsettings.Development.json
+
+# Test artifacts
+TestResults/
+
+# OS files
+.DS_Store
+Thumbs.db
